@@ -8,7 +8,7 @@ My backend code for the fictitious Bookface social media platform. Code includes
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Demo](#demo)
+* [Demo](#demo-of-api-routes)
 * [License](#license)
 
 ## Installation
@@ -17,7 +17,8 @@ Clone this repository and add it to your existing code.
 
 ## Usage
 
-Clone this repository ![image](https://github.com/Villzies/Wonderstore--Back-End-/assets/135443479/7f903aa8-dd67-44e9-a1b8-3c8432fb96fb)
+Clone this repository ![image](https://github.com/Villzies/Bookface-API/assets/135443479/5ae136c1-bdc0-4bf9-9e4c-ed5bbecef129)
+
 
  In the terminal:
 
